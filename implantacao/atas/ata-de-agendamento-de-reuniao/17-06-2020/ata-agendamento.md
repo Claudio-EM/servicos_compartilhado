@@ -51,7 +51,7 @@
 |Santana| IFR | Sim | <div align= "justify"> Suporte suspenso; </div>|
 |Santana| IPGEB | Sim | <div align= "justify"> Contato foi realizado com Douglas no dia 09/06 e implantação foi finalizado após esta conversa. No dia 30/06 será feito o contato com o senhor Douglas para gerar novas remessas; </div>|
 |Santana| Colégio Ômega | Sim | <div align= "justify"> Treinamento realizado no dia 08/06 com a senhora Tatiana/Clayton/Gabrielle e Alcione. Treinamento agendado para no dia 15/06 foi cancelado pela Tatiane. Nova data será agendado no dia 16/06; <br> **Homologação de boletos** Aguardando validação de layout. </div>|
-|Santana| Corre Cotia I e II - DF  | Sim | <div align= "justify"> **Smart App** - Aplicativo disponível na Play Store, treinamento realizado. <br>**Conta Apple:** Cliente esqueceu a senha da conta e a apple e está tentando recuperar. <br>**Homologação de boletos** cliente apresentou a necessidade de uma nova homologação para o banco do Brasil para as duas unidades.<p>Contato realizado no dia 15/06 na unidade I com Sandra e William. Na unidade II foi com Débora, Rita e Diogo (contador); </div>|
+|Santana| Corre Cotia I e II - DF  | Sim | <div align= "justify"> **Smart App** - Aplicativo disponível na Play Store, treinamento realizado. <br>**Conta Apple:** Cliente esqueceu a senha da conta e a apple e está tentando recuperar. <br>**Homologação de boletos** cliente apresentou a necessidade de uma nova homologação para o banco do Brasil para as duas unidades. Homologação iniciada, aguardando dados bancarios<p>Contato realizado no dia 15/06 na unidade I com Sandra e William. Na unidade II foi com Débora, Rita e Diogo (contador); </div>|
 
 
  |<p align="center"> **Modulos Adicionais** </p>|
