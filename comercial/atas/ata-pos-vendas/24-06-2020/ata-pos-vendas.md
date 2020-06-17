@@ -52,6 +52,23 @@
 |Santana| Colégio Ômega | Katia | <div align= "justify"> XXXXXXXXXXXXXX </div>|
 |Santana| Corre Cotia I e II - DF  | Stefanio | <div align= "justify"> XXXXXXXXXXXXXXXXXXX </div>|
 
+
+ |<p align="center"> **Modulos Adicionais** </p>|
+
+|**Implantador** | **Cliente** | **Consultor** | **Observações** |
+|----------------| ----------- | --------------- | ----------- |
+| Amanda | Colégio Athletcs Center  | Claudio | <div align= "justify">**Smart App** - XXXXXXXXXXX </div>|
+| Christopher | Colégio Lassale e Monica Centro de Estudos | Claudio | <div align= "justify"> **Smart App ** - XXXXXXXXXXX </div>|
+| Jefferson | Instituto Mayrink Vieira | Katia | <div align= "justify"> **Smart e Tô Chegando**. XXXXXXXXXXXXXX </div>|
+| João Paulo | Colégio Meta Buriti (Id Control) | Claudio | <div align= "justify"> XXXXXXXXXXXXXXXXX  </div>|
+| Luís Paulo | Colégio Arena/Arena vestibular | Claudio | <div align= "justify"> XXXXXXXXXXXXXXX </div>|
+| Luís Paulo | Colégio Einsten | Claudio | <div align= "justify"> XXXXXXXXXXXXXX </div>|
+| Luís Paulo | Externato São José | Claudio | <div align= "justify"> XXXXXXXXXXXXXXX </div>|
+| Marcelo | Colégio Meta Júnior | Claudio | <div align= "justify"> **Smart  App** - XXXXXXXXXXXXXXXXX </div>|
+| Marcelo | Arena Enem Vestibulares | Claudio | <div align= "justify"> **Smart App** - XXXXXXXXXXX </div>|
+| Randerson | Estrelinhas do Futuro | Claudio | <div align= "justify"> **Smart App** - XXXXXXXXXXXX </div>|
+| Santana | El Shaday (Palmeiras de Goiás - GO) | Katia | <div align= "justify"> **Smart App** - XXXXXXXXXXXX </div>|
+
 --------
 **Quais equipamentos ou materiais serão necessários**
 * **TV**
