@@ -1,6 +1,6 @@
-| **Assunto** | **Data e Hora** | **Local** |
+| **Assunto** | **Data e Hora** | **Local** | **Solicitante   |
 | ----------- | --------------- | --------- | --------------- | 
-| Resumo de Pós-Venda | 01/07/2020 - 08:30 | Sala de Reuniões | 
+| Resumo de Pós-Venda | 01/07/2020 - 08:30 | Sala de Reuniões | Dep. Comercial |
 
 ----
 **Descreva abaixo o objetivo da reunião**
