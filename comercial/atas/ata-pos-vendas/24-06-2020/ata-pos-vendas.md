@@ -1,6 +1,6 @@
 | **Assunto** | **Data e Hora** | **Local** | **Solicitante** |
 | ----------- | --------------- | --------- | --------------- | 
-| Resumo das implantações | 24/06/2020 - 08:30 | Sala de Reuniões | Leonardo | 
+| Resumo de Pós-Vendas | 24/06/2020 - 08:30 | Sala de Reuniões | Dep. Comercial | 
 
 ----
 **Descreva abaixo o objetivo da reunião**
