@@ -27,7 +27,7 @@
 | Randerson | Colégio Logosófico | Stefanio e Claudio | <div align= "justify"> XXXXXXXXXXXXX  </div>|
 | Randerson | BeatSchool | Katia | <div align= "justify"> XXXXXXXXX </div>|
 | Randerson | IES | Claudio | <div align= "justify"> Suporte Suspenso;  </div>|
-| Randerson | Colégio Nomelini Cirandinha | Katia | <div align= "justify"> XXXXXXXXXXXXXX </div>|
+| Randerson | Colégio Nomelini Cirandinha | Katia | <div align= "justify"> XXXXXXXX </div>|
 | Randerson | Instituto Márcia Cascão | Katia | <div align= "justify"> XXXXXXXXXXXXXX </div>|
 | Randerson | Roda Viva | Katia | <div align= "justify"> XXXXXXXXXXXXXXX </div>|
 | Randerson | Escola Imaculada | Claudio | <div align= "justify"> XXXXXXXXXXXXXXXX </div>|
