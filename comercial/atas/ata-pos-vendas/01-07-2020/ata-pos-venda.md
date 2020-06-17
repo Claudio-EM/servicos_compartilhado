@@ -1,4 +1,4 @@
-| **Assunto** | **Data e Hora** | **Local** | **Solicitante   |
+| **Assunto** | **Data e Hora** | **Local** | **Solicitante** |
 | ----------- | --------------- | --------- | --------------- | 
 | Resumo de Pós-Venda | 01/07/2020 - 08:30 | Sala de Reuniões | Dep. Comercial |
 
