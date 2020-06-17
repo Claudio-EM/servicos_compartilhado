@@ -53,32 +53,6 @@
 |Santana| Colégio Ômega | Sim | <div align= "justify"> Treinamento realizado no dia 08/06 com a senhora Tatiana/Clayton/Gabrielle e Alcione. Treinamento agendado para no dia 15/06 foi cancelado pela Tatiane. Nova data será agendado no dia 16/06; <br> **Homologação de boletos** Aguardando validação de layout. </div>|
 |Santana| Corre Cotia I e II - DF  | Sim | <div align= "justify"> **Smart App** - Aplicativo disponível na Play Store, treinamento realizado. <br>**Conta Apple:** Cliente esqueceu a senha da conta e a apple e está tentando recuperar. <br>**Homologação de boletos** cliente apresentou a necessidade de uma nova homologação para o banco do Brasil para as duas unidades. Homologação iniciada, aguardando dados bancarios<p>Contato realizado no dia 15/06 na unidade I com Sandra e William. Na unidade II foi com Débora, Rita e Diogo (contador); </div>|
 
-
- |<p align="center"> **Modulos Adicionais** </p>|
-
-|**Implantador** | **Cliente** | **Produção** | **Observações** |
-|----------------| ----------- | --------------- | ----------- |
-| Amanda | Colégio Athletcs Center  | Sim | <div align= "justify">**Smart App** - Aplicativo disponível na Play Store, treinamento realizado. <br>**Conta Apple:** - Cliente (sr. Marcos) disse que vai dar continuidade na criação da conta Apple em agosto de 2020. </div>|
-| Christopher | Colégio Lassale e Monica Centro de Estudos | Sim | <div align= "justify"> **Smart** - Aplicativo disponível na Play Store, treinamento não ministrado, foi feito contato com a sra. Libia, mas ela está de féiras e só retorna dia 15 de julho, também foram feitas tentativas de contato com a proprietária do colégio, mas sem sucesso. <br>**Conta Apple:** - Cliente (sr. Marcos) disse que vai dar continuidade na criação da conta Apple em agosto de 2020. </div>|
-| Jefferson | Instituto Mayrink Vieira | Sim | <div align= "justify"> **Smart e Tô Chegando**. Treinamento  finalizado no dia 04/06. Aplicativo disponível na Play Store, treinamento realizado. Aguardando criação do aplicativo na Apple Store. <p>**Conta Apple** - A conta Apple já foi criada, mas eles solicitaram uma carta que autorize o Escolar Manager a subir o aplicativo da instituição. </div>|
-| João Paulo | Colégio Meta Buriti (Id Control) | Sim | <div align= "justify"> Atualmente o Mendes está trabalhando nesta integração. De acordo com o Mendes uma visita será agendada para estarmos indo até o Colégio  </div>|
-| Luís Paulo | Colégio Arena/Arena vestibular | Sim | <div align= "justify"> Após o término da integração do Colégio Externato São José será feito a integração deste cliente; </div>|
-| Luís Paulo | Colégio Einsten | Sim | <div align= "justify"> Aguardando finalizar a integração do Colégio Arena para dar sequência nesta integração. O modelo de catraca é o mesmo </div>|
-| Luís Paulo | Externato São José | Sim | <div align= "justify"> Será feito uma análise do codigo para verificar o motivo pela qual a catraca parou de se comunicar com o sistema da Neokorus. Aparentemente houve uma alteração da DLL do sistema parceiro; </div>|
-| Marcelo | Colégio Meta Júnior | Sim | <div align= "justify"> **Smart  App** - Aplicativo disponível na Play Store, treinamento realizado. <br>**Conta Apple:** Aguardando processar o pagamento. </div>|
-| Marcelo | Arena Enem Vestibulares | Sim | <div align= "justify"> **Smart App** - Processo parado, aguardando resposta do sr. Gean. </div>|
-| Randerson | Estrelinhas do Futuro | Sim | <div align= "justify"> **Smart App** - Aplicativo disponível na Play Store, mas o Randerson ainda não conseguiu marcar o treinamento com o cliente, devido a dificuldades de contato com o sr. Carlos. <p>**Conta Apple:** Conta Criada. </div>|
-| Santana | El Shaday (Palmeiras de Goiás - GO) | Sim | <div align= "justify"> **Smart App** - Aguardando criação aplicativo na Play Store. <br>**Conta Apple** - Aguardando a sra. Jacqueline providenciar website do colégio.<p>Após a aprovação, será solicitado ao desenvolvimento subir o aplicativo e na sequencia será agendado o treinamento com o cliente; </div>|
-
- 
- |<p align="center"> **Homologação de Boletos** </p>|
- 
-|**Analista** | **Cliente** | **Produção** | **Observações** |
-|----------------| ----------- | --------------- | ----------- |
-| Dhaniel | Escola Superior de Aviação| Sim | <div align= "justify"> Aguardando pagamento dos boletos para encerramento da homologação </div>|
-| Dhaniel    | Piet Mondrian | Sim | <div align= "justify"> Suporte Suspenso </div>|
-| Jefferson Pereira| Veratz | Sim | <div align= "justify"> Homologação Iniciada, aguardando dados bancarios; </div>|
-
 --------
 **Quais equipamentos ou materiais serão necessários**
 * **TV**
