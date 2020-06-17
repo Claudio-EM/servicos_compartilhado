@@ -1,6 +1,6 @@
 | **Assunto** | **Data e Hora** | **Local** | **Solicitante** |
 | ----------- | --------------- | --------- | --------------- | 
-| Resumo das implantações | 01/07/2020 - 08:30 | Sala de Reuniões | Leonardo | 
+| Resumo de Pós-Venda | 01/07/2020 - 08:30 | Sala de Reuniões | 
 
 ----
 **Descreva abaixo o objetivo da reunião**
